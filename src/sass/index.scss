@@ -1,0 +1,14 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+li {
+  list-style: none;
+}
+
+.modal {
+  display: flex;
+  width: 600px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
